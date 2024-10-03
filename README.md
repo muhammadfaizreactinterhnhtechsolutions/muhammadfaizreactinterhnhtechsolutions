@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games And  Development And Learning 
 - 🌱 I’m currently learning Mern Stack Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Contect me faiznaeem192022@gmail.com
+- 📫 How to reach me Contect me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No Fun Only Serious 
 
