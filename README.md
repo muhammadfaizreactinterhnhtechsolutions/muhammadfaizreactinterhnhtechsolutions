@@ -23,7 +23,7 @@ Studing Computer Science 💻💻 Learning Code <br>🌱 I’m currently learnin
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadfaizreactinterhnhtechsolutions&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randomeme.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadfaizreactinterhnhtechsolutions&icon=2&color=0)](https://visitcount.itsvg.in)
