@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQE0vRUf7Ecu0g/profile-displaybackgroundimage-shrink_350_1400/0/1696945520596?e=1704326400&v=beta&t=ilbRrfJvIp_22q3SoO1Q2_4drq6-u8ztmF9BMM_i1zM)
+
 <h1 align="center">Hi 👋, I'm Faiz Naeem</h1>
 <h1>💫 About Me : </h1>
 <img align="right" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="alt" >
